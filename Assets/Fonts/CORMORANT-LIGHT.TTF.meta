@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 8bf610812406603448a8c9b098b5f84c
+timeCreated: 1503101196
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cormorant
+  fontNames:
+  - Cormorant
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3f337760a3d795e42a97146d747a06ac, type: 3}
+  - {fileID: 12800000, guid: 3bfa43c5cd2f40b4aadf9557c5fbaa42, type: 3}
+  - {fileID: 12800000, guid: 348594166028b3f41b69f7d676e86a33, type: 3}
+  - {fileID: 12800000, guid: 0aba2737e65597242ba25c6b17ae60c6, type: 3}
+  - {fileID: 12800000, guid: 4f4f77472bb00f84f8476e47722a08a4, type: 3}
+  - {fileID: 12800000, guid: 6667ed694b6d3dc4cb8d3b8d2c72d72b, type: 3}
+  - {fileID: 12800000, guid: 5dc4055c4848cc84792a8964f16cd1bd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
